@@ -20,6 +20,7 @@ end
 
 group :development do
   gem 'listen', '~> 3.3'
+  gem 'active_model_serializers'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
